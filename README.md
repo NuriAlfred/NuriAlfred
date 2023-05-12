@@ -1,4 +1,3 @@
-### Hi there 👋
 <h2 >👋 Hi! 我是NuriAlfred.</h2>
 <p align="center">
   <img src="./hello-world.gif" width="30%">
