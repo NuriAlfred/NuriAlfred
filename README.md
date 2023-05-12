@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
- <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuriAlfred&layout=compact&count_private=true&hide=html" />
-</div>
+
 <div>
  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=NuriAlfred&show_icons=true&layout=compact&hide=stars&count_private=true" alt="NuriAlfred's GitHub Stats"/>
+</div>
+
+<div>
+ <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuriAlfred&layout=compact&count_private=true&hide=html" />
 </div>
